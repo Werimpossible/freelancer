@@ -1,3 +1,80 @@
-/*
- * Estilos de tu proyecto
- */
+nav{
+    outline: 2px solid red;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#headercontainer{
+    outline: 2px solid blue;
+}
+
+#portafoliocontainer{
+    outline: 2px solid green;
+}
+
+.row{
+    outline: 5px solid yellow;
+}
+
+.contenimagenrow{
+    outline: 2px solid salmon;
+    display: inline-block;
+}
+
+#aboutcontainer{
+    outline: 2px solid orchid;
+}
+
+#textbotoncontainer{
+    outline: 2px solid yellowgreen;
+}
+
+#contactcontainer{
+    outline: 2px solid indigo;
+}
+
+#formcontainer{
+    outline: 5px solid hotpink;
+}
+
+.formulario{
+    outline: 2px solid crimson;
+
+}
+
+#botonformul{
+    outline: 2px solid blueviolet;
+}
+
+#footercolumnascont{
+    outline: 2px solid springgreen;
+}
+
+#contfootsup{
+    outline: 2px solid khaki;
+}
+
+.columnastextocont{
+    outline: 2px solid darkorange;
+}
+
+.titulosh3{
+    outline: 2px solid navy;
+}
+
+.iconosrs{
+    outline: 2px solid brown;
+    display: inline;
+}
+
+#contfootinf{
+    outline: 2px solid darkviolet;
+}
+
+#contcentralinf{
+    outline: 2px solid fuchsia;
+}
+
+#contcentralinftext{
+    outline: 2px solid midnightblue;;
+}
